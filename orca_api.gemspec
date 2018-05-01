@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "ORCA API bindings in Ruby"
   spec.description = "orca_api is a library for ORCA API in Ruby."
-  spec.homepage = "https://github.com/medley-inc/orca-api"
+  spec.homepage = "https://github.com/orca-api/orca-api"
   spec.license = ""
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
